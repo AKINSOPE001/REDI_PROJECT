@@ -79,7 +79,8 @@ Password: RediSchool
 
 
 
-🧪 Technologies Used
+🧪 Technologies Used:
+
   Python
   
   Tkinter (GUI)
