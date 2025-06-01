@@ -64,17 +64,18 @@ Password: RediSchool
 
 
 🤝 Acknowledgements
-ReDI School Teachers and mentors
 
-This project was inspired by the following YouTube tutorial:
+   ReDI School Teachers and mentors
 
-- [Student Management System Tutorial](https://youtu.be/k9ICA7LDIZQ?si=lM6tCC1Le-C9Ruy7) by **Coding Lifestyle 4u**
+   This project was inspired by the following YouTube tutorial:
+
+   - [Student Management System Tutorial](https://youtu.be/k9ICA7LDIZQ?si=lM6tCC1Le-C9Ruy7) by **Coding Lifestyle 4u**
 
 > Special thanks for the step-by-step walkthrough that helped shape this project.
 
-Open-source libraries (ttkthemes, Pillow)
+  Open-source libraries (ttkthemes, Pillow)
 
-ChatGPT for assistance in design, debugging, and documentation
+  ChatGPT for assistance in design, debugging, and documentation
 
 
 
@@ -95,5 +96,5 @@ ChatGPT for assistance in design, debugging, and documentation
 
 
 
-Developed by Akinsope Idowu, ReDI School Python(Hyrbid) student
+Developed by Akinsope Idowu, ReDI School Python(Hyrbid) student (SPRING 2025)
 
