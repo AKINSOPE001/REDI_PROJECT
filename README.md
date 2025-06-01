@@ -56,7 +56,7 @@ Password: RediSchool
 ## 📸 Screenshots
 
 ### 🔐 Login Screen
-![Login Screenshot](images/login.png)
+![Login Screenshot]([images/login.png](https://github.com/AKINSOPE001/REDI_PROJECT/blob/main/login_screenshot.JPG))
 
 ### 🧾 Student Dashboard
 ![Dashboard Screenshot](images/dashboard.png)
