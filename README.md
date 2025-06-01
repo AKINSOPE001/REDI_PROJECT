@@ -68,7 +68,7 @@ ReDI School Teachers and mentors
 
 This project was inspired by the following YouTube tutorial:
 
-- [Student Management System Tutorial]([https://www.youtube.com/watch?v=example](https://youtu.be/k9ICA7LDIZQ?si=lM6tCC1Le-C9Ruy7)) by **Coding Lifestyle 4u**
+- [Student Management System Tutorial](https://youtu.be/k9ICA7LDIZQ?si=lM6tCC1Le-C9Ruy7) by **Coding Lifestyle 4u**
 
 > Special thanks for the step-by-step walkthrough that helped shape this project.
 
