@@ -56,11 +56,11 @@ Password: RediSchool
 ## 📸 Screenshots
 
 ### 🔐 Login Screen
-![Login Screenshot]([images/login.png](https://github.com/AKINSOPE001/REDI_PROJECT/blob/main/login_screenshot.JPG))
+![Login Screenshot](https://github.com/AKINSOPE001/REDI_PROJECT/blob/main/login_screenshot.JPG)
 
 
 ### 🧾 Student Dashboard
-![Dashboard Screenshot]([[images/dashboard.png](https://github.com/AKINSOPE001/REDI_PROJECT/blob/main/redi_homepage.JPG)](https://github.com/AKINSOPE001/REDI_PROJECT/blob/main/redi_homepage.JPG))
+![Dashboard Screenshot](https://github.com/AKINSOPE001/REDI_PROJECT/blob/main/redi_homepage.JPG)
 
 
 🤝 Acknowledgements
