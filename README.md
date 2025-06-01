@@ -85,11 +85,5 @@ ChatGPT for assistance in design, debugging, and documentation
 
 
 
-📂 Folder Structure
-  project/
-│
-├── redi.jpg              # Background image for login page
-├── redilogo.png          # ReDI logo for sidebar in ReDISchoolApp
-├── main.py               # Main application script
-└── README.md             # Project documentation
+Developed by Akinsope Idowu, ReDI School Python(Hyrbid) student
 
