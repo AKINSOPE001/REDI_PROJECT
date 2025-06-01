@@ -96,5 +96,5 @@ Password: RediSchool
 
 
 
-Developed by Akinsope Idowu, ReDI School Python(Hyrbid) student (SPRING 2025)
+              Developed by Akinsope Idowu, ReDI School Python(Hyrbid) student (SPRING 2025)
 
