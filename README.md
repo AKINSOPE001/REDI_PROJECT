@@ -60,7 +60,7 @@ Password: RediSchool
 
 
 ### 🧾 Student Dashboard
-![Dashboard Screenshot](https://github.com/AKINSOPE001/REDI_PROJECT/blob/main/ReDISchool_screenshot.JPG)
+![Dashboard Screenshot](https://github.com/AKINSOPE001/REDI_PROJECT/blob/main/ReDISchoolAPP_screenshot.JPG)
 
 
 🤝 Acknowledgements
