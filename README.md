@@ -41,7 +41,7 @@ The **ReDI School Student Management System** enables efficient handling of stud
 5. Install the required Python packages:
     pip install mysql-connector-python pillow ttkthemes
 
-6.  Run the application:
+6.  In the terminal, navigate to the folder and run application:
     python main.py
    
 7.🔐 Admin Login Credentials
