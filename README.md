@@ -53,6 +53,15 @@ Password: RediSchool
 
 ⚠️ Note: The username and password are case-sensitive. Make sure to enter them exactly as shown.
 
+## 📸 Screenshots
+
+### 🔐 Login Screen
+![Login Screenshot](images/login.png)
+
+### 🧾 Student Dashboard
+![Dashboard Screenshot](images/dashboard.png)
+
+
 🤝 Acknowledgements
 ReDI School Teachers and mentors
 
